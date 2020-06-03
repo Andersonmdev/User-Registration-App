@@ -1,0 +1,14 @@
+aside.menu-area {
+  background-color: var(--bg-dark);
+  box-shadow: var(--shadow);
+}
+
+.menu a {
+  display: block;
+  text-decoration: none;
+  padding: 5px 15px;
+}
+
+.menu a:hover {
+  background: linear-gradient(125deg, #07a7e3, #32dac3 100%);
+}
